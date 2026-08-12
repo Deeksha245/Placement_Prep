@@ -1,4 +1,4 @@
-class Solution {
+class ex11 {
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
         int minSum=Integer.MAX_VALUE,sum;
         for(int i=0;i<nums.size();i++)

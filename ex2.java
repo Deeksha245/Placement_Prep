@@ -11,5 +11,5 @@ class ex2 {
 }
 
 
-/*5
+/*Output:5
 1*/
