@@ -98,4 +98,7 @@ bac
 bca
 cab
 cba*/
-
+//IN: BASED ON ROOT ITS PLACED
+PRE:
+POST:
+// we cannot store tree in linked list
